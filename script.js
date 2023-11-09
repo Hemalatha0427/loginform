@@ -21,7 +21,7 @@ function ValidateInputs() {
   } else {
     setSuccess(password);
     alert('Login SuccessFully');
-    window.location.href="todolist.html"
+    window.location.href="todolist.htm"
   }
  
 }
